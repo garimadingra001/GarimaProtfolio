@@ -269,7 +269,7 @@ section .title::after{
 .services .title::after,
 .teams .title::after{
     background: #111;
-    content: "what i provide";
+    content: "what i did";
 }
 .services .serv-content .card{
     width: calc(33% - 20px);
@@ -380,7 +380,7 @@ section .title::after{
 
 /* teams section styling */
 .teams .title::after{
-    content: "who with me";
+    content: "what i studied";
 }
 .teams .carousel .card{
     background: #222;
@@ -681,7 +681,7 @@ footer span a:hover{
 
 
 .box p{
-    font-size: 15px;
+    font-size: 17px;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 500;
 }
